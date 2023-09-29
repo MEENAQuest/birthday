@@ -1,0 +1,14 @@
+div{
+    text-align: center; 
+    background-color: rgb(225, 225, 103);
+}
+h1{
+    color: red; 
+}
+h3{
+    color: blue; 
+}
+p{
+    color: rgb(29, 87, 29); 
+    font-weight: bold;
+}
